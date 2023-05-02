@@ -1,0 +1,11 @@
+name: Bash Scripts
+description: |
+  This challenge is intended for you to get more comfortable with bash scripts, as well as discover other built in linux commands in kali linux. This is comprised of 4 different problems. The first three problems contain a flag to be found and to be combined in the 4th problem. You can do the problems out of order, but the flag must be in order.
+
+
+value: 100
+category: Miscellaneous
+flag: CTF_SDat{f$gh*x_*3dT3bA2$_6590}
+
+# administrative
+container_name: misc-Bash-Scripts
