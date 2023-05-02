@@ -1,0 +1,4 @@
+#For this challenge, you need to listen on your network for the first flag.
+#You know that the port is between 57000 and 57200, and it is being broadcasted via udp.
+#You have netcat at your disposal as well as a bash script you can write to.
+#Use tee to write to the file, do not use tail unless you can write the script in 10 lines or less.

@@ -1,0 +1,9 @@
+water bottle
+#Now create a script checking the sha256sum and find the correct number for the flag
+#The string to check against is WordsSymbolsNumbers#! where # increases from 0 to 10000.
+#There is no leading 0s, so the first one to check against would be WordsSymbolsNumbers0!
+#The number you fill in that matches the sha256sum is the flag for this level
+#If using echo, the sha256sum is f103d7afc8a3011f9d93e5380cbe98a969e19ad735a1cfdfa9188fa955182bde
+#If using printf, the sha256sum is a7a34e63d19d1eeb42cc97cd7493f51649a1abe17e4648324ca6b58146588158
+#You can find the script file in the Problem3 directory
+#Use tee to write the file, do not use tail unless you can write the file in 10 lines or less.
